@@ -1,4 +1,4 @@
-# WoW Model Tools
+# WoW Art Tools
 
 This add-on was created for [Belvane’s](https://twitch.tv/belvane) community but is free to use for any and all 3D Artists who use Blender and create World of Warcraft art.
 
